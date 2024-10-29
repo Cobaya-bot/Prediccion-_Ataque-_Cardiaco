@@ -1,2 +1,2 @@
-# Prediccion-_Ataque-_Cardiaco
+# Prediccion_Ataque_Cardiaco
 En Proceso...
